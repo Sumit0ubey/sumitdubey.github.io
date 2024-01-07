@@ -6,27 +6,27 @@ body{
     font-family: Algerian;
 }
 h1{
-    font-size:28px;
+    font-size:28vh;
 }
 
 #postion{
-    font-size:18px;
+    font-size:18vh;
 }
 
 .summary{
-    font-size:16px;
+    font-size:16vh;
 }
 
 h2{
     color:#2F5A78;
-    font-size:20px;
+    font-size:20vh;
 }
 
 body {
   font-family: Arial;
 }
 #position {
-  font-size: 18px;
+  font-size: 18vh;
   font-weight: bold;
 }
 
@@ -35,12 +35,12 @@ body {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 28vh;
   text-transform: uppercase;
 }
 .summary {
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 16vh;
+  line-height: 20vh;
 }
 header {
   text-align: center;
@@ -50,7 +50,7 @@ header {
 }
 
 section, footer {
-  padding: 2px 10px;
+  padding: 2vh 10vh;
 }
 ul {
   margin: 0px;
@@ -59,17 +59,17 @@ ul {
 
 h2 {
   color: #2F5A78;
-  font-size: 20px;
-  padding-bottom: 2px;
-  border-bottom: 1px solid #2F5A78;
+  font-size: 20vh;
+  padding-bottom: 2vh;
+  border-bottom: 1vh solid #2F5A78;
 } 
 
 
 header {
   text-align: center;
   background-color: #eeeeee;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 footer{
@@ -80,7 +80,7 @@ li b {
   color: #2F5A78;
 }
 li {
-  margin-bottom: 5px;
+  margin-bottom: 5vh;
 } 
 
 footer a {
@@ -96,8 +96,8 @@ table {
   border-collapse: collapse; 
 } 
 td, th { 
-  border:1px solid #000000; 
-  padding: 5px;
+  border:1vh solid #000000; 
+  padding: 5vh;
 } 
 th { 
   background-color: #2F5A78; 
@@ -105,16 +105,16 @@ th {
 }
 
 input[type='text'], input[type='email'] {
-  border: 1px solid #2F5A78;
-  width: 150px;
-  padding: 5px;
-  margin-bottom: 5px;
+  border: 1vh solid #2F5A78;
+  width: 150vh;
+  padding: 5vh;
+  margin-bottom: 5vh;
 }
 textarea {
-  border: 1px solid #2F5A78;
-  width: 203px;
-  padding: 5px;
-  margin-bottom: 5px;
+  border: 1vh solid #2F5A78;
+  width: 203vh;
+  padding: 5vh;
+  margin-bottom: 5vh;
 }
 label {
   font-weight: bold;
@@ -123,11 +123,11 @@ label {
 input[type='submit'] {
   background-color: #2F5A78;
   border: none;
-  border-radius: 7px;
-  padding: 7px 15px;
+  border-radius: 7vh;
+  padding: 7vh 15vh;
   font-weight: bold;
   color: white;
-  margin-bottom: 7px;
+  margin-bottom: 7vh;
 }
 
 body {
